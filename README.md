@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hello! 👋 I'm wong </h1>
-<h2 align="center">A passionate Software Engineer from thailand </h2>
+<h2 align="center">A passionate Software Engineer from Thailand </h2>
 
 ##  
 <img align="center" src=https://media.tenor.com/upZRqqfUnVEAAAAd/shy-lily.gif alt="" />
