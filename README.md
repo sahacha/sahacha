@@ -9,13 +9,6 @@
 
 Slowly, I learned about the endless possibilities of computer programs along with the enjoyment of challenging myself to make my programs work. Ever since this initial exposure, programming has defined my life.
 In addition to being passionate about programming, I am eager to challenge myself to do things I've never accomplished before and I strive to learn and improve on my skills every day.</h3>
-
-<h2 align="center">Languages and Tools:</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cpp,java,py,vue,vite,tailwind,nodejs,express,nestjs,git,firebase,docker,vim,postgres,mysql,mongodb" />
-  </a>
-
 <h2 align="left">Social:</h2>
 
 <p align="left">
