@@ -1,8 +1,6 @@
 
 <h1 align="center"> Hello! 👋 I'm wong
 <br>A passionate Software Engineer from Thailand </h1>
-
-<img class="center" src=https://media.tenor.com/upZRqqfUnVEAAAAd/shy-lily.gif alt="" />
     
 <h2 align="left">I'm Hard work , thank you.</h2>
 <h3 align="left">I am a 19-year-old from Thailand. I am also frequently known by my username wong.
