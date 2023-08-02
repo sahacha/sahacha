@@ -3,7 +3,7 @@
 A passionate Software Engineer from Thailand
 
 ## I'm Hard work , thank you.
-I am a 19-year-old from Thailand. I am also frequently known by my username wong.
+I am a 20-year-old from Thailand. I am also frequently known by my username wong.
 
 ### My Motivation
 Slowly, I learned about the endless possibilities of computer programs and enjoyed challenging myself to make my programs work. Ever since this initial exposure, programming has defined my life.
@@ -15,13 +15,13 @@ I'm comfortable with the following language:
 - Thai
 - English
 - JavaScript/TypeScript
-- Python(Sever side,API,Machine learning)
-- Rust(Soon! 🧠)
+- Python (Sever side,API,Machine learning)
+- Rust (Soon! 🧠)
 - Dart (for Flutter)
-- C(Just the Beginner for IoT)
-- C++(for Competitive programming)
-- Kotlin(Soon!🧠)
-- Java(Beginner)
+- C (Just the Beginner for IoT)
+- C++ (for Competitive programming)
+- Kotlin (Soon!🧠)
+- Java (Beginner)
 
 ## Preference:
 
