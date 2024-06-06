@@ -17,12 +17,12 @@ Hello! 😸 I'm wong <br>
 <h2 align="center">Contact us</h2>
 <div align="center">
 
-<div align="center">
-  <img href="www.linkedin.com/in/sahacha-inchai-5376322b4" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img href="https://twitter.com/Skurosawa1" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img href="https://www.instagram.com/thisisawong/" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img href="https://www.youtube.com/channel/UCgKRAftgXpOdNawFd_WC7lQ" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
+ <p align="center">
+ <a href="https://www.linkedin.com/in/sahacha-inchai-5376322b4/" target="blank"><img href="www.linkedin.com/in/sahacha-inchai-5376322b4" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+ <a href="https://twitter.com/https://x.com/sahachain23" target="blank"><img href="https://twitter.com/Skurosawa1" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+ <a href="https://www.youtube.com/channel/UCgKRAftgXpOdNawFd_WC7lQ" target="blank"><img href="https://www.instagram.com/thisisawong/" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+ <a href="https://www.instagram.com/thisisawong/" target="blank"><img href="https://www.instagram.com/thisisawong/" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+ </p>
 
 </pre>
 
