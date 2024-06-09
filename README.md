@@ -1,6 +1,5 @@
-<h2 align="center">
-Hello! 😸 I'm wong <br>
- A passionate Software Engineer from Thailand
+<h1 align="center">  A passionate Software Engineer and Data Engineer from Thailand
+🌧 </h1>
 <h2 align="center"> A little bit about me </h2>
   <br>
   <p>I am curious about the various origins that lead me to learn slowly about the endless possibilities of computer programming. I find enjoyment in challenging myself to make my programs work, ever since its initial introduction. Programming has not only shaped my life but also ignited a passion for pushing myself to succeed in areas I haven't explored before. I am determined to learn and develop my skills every day, with discipline being the key virtue I adhere to. There are many things I still don't know, and I am eager to research and find answers</p>
