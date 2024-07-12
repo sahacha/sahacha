@@ -1,4 +1,4 @@
-<h1 align="center">  A passionate Software Engineer and Data Engineer from Thailand
+<h1 align="center">  A passionate Data Engineer and MLops Engineer from Thailand
 🌧 </h1>
 <h2 align="center"> A little bit about me </h2>
   <br>
