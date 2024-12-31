@@ -36,6 +36,8 @@
   <i>&nbsp; "When ready to surrender, persist until the very end.
 Try to see how far you can go; it may be farther than you think."</i> 
  </div>
- 
+<!---
+Happy new year 2025
+--> 
   
 <a><img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac" width = "100%"/></a>
