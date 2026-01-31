@@ -5,7 +5,7 @@
 </div></br>
 <p align="center">
     <a href="">
-        <img title="Deep" alt="REgev dc" src="https://discord.c99.nl/widget/theme-2/446269410555199488.png"/>
+        <img title="Deep" alt="REgev dc" src="https://discord.c99.nl/widget/theme-3/446269410555199488.png"/>
     </a>
 </p>
   <p align="center">
