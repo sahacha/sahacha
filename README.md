@@ -1,7 +1,7 @@
 
 <div align="center">
     <p style="font-family:verdana">I'm Listening Now...</p>
-    <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001927.3d2f071b35904ee1be994a9d32f26b03.1653" width="256" alt="Music Profile" />
+    <img src="https://music-profile.rayriffy.com/theme/light.svg?uid=001927.3d2f071b35904ee1be994a9d32f26b03.1653" width="256" alt="Music Profile" />
 </div></br>
 <p align="center">
     <a href="">
